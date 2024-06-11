@@ -23,7 +23,11 @@ const greeting = {
   username: "Aniket Kumar",
   title: "Hi all, I'm Aniket",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Seasoned Engineer with over 14 years of experience. Playing the role of an architect in the analytics platform team. Responsible for coding, designing, and architecting highly performant backend services, that drive the entire analytics engine across all the products in the organization. Lately have been involved in prompt Engineering and openAI initiatives.
+
+I love building things. While hard engineering problems are often intrinsically fun to tackle, I'm most attracted to solving real customer problems with a business justification and which can make lives easier for users/developers.
+
+I constantly strive for new challenges, and never shy away from burning my hands with lastest technology offering out there."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
